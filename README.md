@@ -43,6 +43,7 @@ THEN I should have proper build scripts for a webpack application
 - clone repo
 - npm i
   -npm start
+  -runs on http://localhost:3000/
 
 ## License
 
